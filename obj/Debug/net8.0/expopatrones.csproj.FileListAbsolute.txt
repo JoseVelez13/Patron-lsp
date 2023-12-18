@@ -1,0 +1,14 @@
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\bin\Debug\net8.0\expopatrones.exe
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\bin\Debug\net8.0\expopatrones.deps.json
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\bin\Debug\net8.0\expopatrones.runtimeconfig.json
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\bin\Debug\net8.0\expopatrones.dll
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\bin\Debug\net8.0\expopatrones.pdb
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\obj\Debug\net8.0\expopatrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\obj\Debug\net8.0\expopatrones.AssemblyInfoInputs.cache
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\obj\Debug\net8.0\expopatrones.AssemblyInfo.cs
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\obj\Debug\net8.0\expopatrones.csproj.CoreCompileInputs.cache
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\obj\Debug\net8.0\expopatrones.dll
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\obj\Debug\net8.0\refint\expopatrones.dll
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\obj\Debug\net8.0\expopatrones.pdb
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\obj\Debug\net8.0\expopatrones.genruntimeconfig.cache
+C:\Users\sabi\Documents\U\3cer semestre\Poo\expopatrones\obj\Debug\net8.0\ref\expopatrones.dll
